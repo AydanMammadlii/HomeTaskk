@@ -1,0 +1,15 @@
+C:\Users\Asus ZenBook\source\repos\ReflectionApp\ReflectionApp\bin\Debug\net8.0\ReflectionApp.exe
+C:\Users\Asus ZenBook\source\repos\ReflectionApp\ReflectionApp\bin\Debug\net8.0\ReflectionApp.deps.json
+C:\Users\Asus ZenBook\source\repos\ReflectionApp\ReflectionApp\bin\Debug\net8.0\ReflectionApp.runtimeconfig.json
+C:\Users\Asus ZenBook\source\repos\ReflectionApp\ReflectionApp\bin\Debug\net8.0\ReflectionApp.dll
+C:\Users\Asus ZenBook\source\repos\ReflectionApp\ReflectionApp\bin\Debug\net8.0\ReflectionApp.pdb
+C:\Users\Asus ZenBook\source\repos\ReflectionApp\ReflectionApp\obj\Debug\net8.0\ReflectionApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus ZenBook\source\repos\ReflectionApp\ReflectionApp\obj\Debug\net8.0\ReflectionApp.AssemblyInfoInputs.cache
+C:\Users\Asus ZenBook\source\repos\ReflectionApp\ReflectionApp\obj\Debug\net8.0\ReflectionApp.AssemblyInfo.cs
+C:\Users\Asus ZenBook\source\repos\ReflectionApp\ReflectionApp\obj\Debug\net8.0\ReflectionApp.csproj.CoreCompileInputs.cache
+C:\Users\Asus ZenBook\source\repos\ReflectionApp\ReflectionApp\obj\Debug\net8.0\ReflectionApp.dll
+C:\Users\Asus ZenBook\source\repos\ReflectionApp\ReflectionApp\obj\Debug\net8.0\refint\ReflectionApp.dll
+C:\Users\Asus ZenBook\source\repos\ReflectionApp\ReflectionApp\obj\Debug\net8.0\ReflectionApp.pdb
+C:\Users\Asus ZenBook\source\repos\ReflectionApp\ReflectionApp\obj\Debug\net8.0\ReflectionApp.genruntimeconfig.cache
+C:\Users\Asus ZenBook\source\repos\ReflectionApp\ReflectionApp\obj\Debug\net8.0\ref\ReflectionApp.dll
+C:\Users\Asus ZenBook\source\repos\ReflectionApp\ReflectionApp\obj\Debug\net8.0\ReflectionApp.sourcelink.json
